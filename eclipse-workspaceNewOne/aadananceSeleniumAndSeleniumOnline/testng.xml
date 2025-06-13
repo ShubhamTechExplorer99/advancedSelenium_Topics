@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="seleniumPractice.TestngPractice"/>
+      <class name="seleniumPackage.TestNH1"/>
+      <class name="testNG.TestNG6"/>
+      <class name="testNG.TestNG7"/>
+      <class name="testNG.TakeScreenshotOnFailure2"/>
+      <class name="testNG.TestNG4"/>
+      <class name="testNG.TestNG5"/>
+      <class name="testNG.TestNG2"/>
+      <class name="seleniumPractice.TestNG1"/>
+      <class name="testNG.TestNG3"/>
+      <class name="testNG.TestNG1"/>
+      <class name="testNG.Assertion1"/>
+      <class name="testNG.Assertion2"/>
+      <class name="testNG.SampleClass"/>
+      <class name="testNG.Assertion3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
