@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AddtoCart]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="testCases.TC003_AddToCart">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyAddToCart_Functionality"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC003_AddToCart -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [AddtoCart] -->
