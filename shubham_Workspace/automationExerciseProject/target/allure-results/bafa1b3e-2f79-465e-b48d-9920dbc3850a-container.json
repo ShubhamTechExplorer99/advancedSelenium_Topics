@@ -1,0 +1,1 @@
+{"uuid":"bafa1b3e-2f79-465e-b48d-9920dbc3850a","name":"Master Suite","children":["0fefa3e2-26f2-4cd0-a067-deb296f7eeea"],"befores":[{"name":"bruteforce","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1740643096683,"stop":1740643096838}],"afters":[],"start":1740643096668,"stop":1740643111352}
